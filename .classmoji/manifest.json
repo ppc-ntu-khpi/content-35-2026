@@ -1,5 +1,16 @@
 {
-  "repositories": {},
+  "repositories": {
+    "python-0": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "python": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
   "general": {
     "pages": [
       "about"
